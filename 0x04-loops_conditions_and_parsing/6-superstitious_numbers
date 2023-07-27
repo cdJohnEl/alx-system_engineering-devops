@@ -6,13 +6,13 @@ while [ $counter -le 20 ]
 do
 	case $counter in
 		4)
-			echo "4 bad luck from China"
+			echo -e "4\nbad luck from China"
 			;;
 		9)
-			echo "9 bad luck from Japan"
+			echo -e "9\nbad luck from Japan"
 			;;
 		17)
-			echo "17 bad luck from Italy"
+			echo -e "17\nbad luck from Italy"
 			;;
 		*)
 			echo $counter
