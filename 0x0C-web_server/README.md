@@ -1,3 +1,0 @@
-. Web server
-DevOps
-SysAdmin
